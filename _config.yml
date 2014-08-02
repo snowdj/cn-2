@@ -1,0 +1,6 @@
+markdown: rdiscount
+permalink: /:year/:month/:title/
+url: http://snowdj.github.io/en
+author: Yihui Xie
+pygments: true
+
