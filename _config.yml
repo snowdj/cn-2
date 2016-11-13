@@ -1,6 +1,7 @@
 markdown: rdiscount
 permalink: /:year/:month/:title/
 url: http://snowdj.github.io/uvicecon
+baseurl: /uvicecon
 author: snowdj
 pygments: true
 
