@@ -1,6 +1,6 @@
 markdown: rdiscount
 permalink: /:year/:month/:title/
-url: http://jonduan.github.io/cn
-author: Jun Duan
+url: http://snowdj.github.io/uvicecon
+author: snowdj
 pygments: true
 
